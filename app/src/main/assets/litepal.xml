@@ -4,6 +4,6 @@
     <list>
         <mapping class="com.ghsoft.coolweather.db.Province"/>
         <mapping class="com.ghsoft.coolweather.db.City"/>
-        <mapping class="com.ghsoft.coolweather.db.Country"/>
+        <mapping class="com.ghsoft.coolweather.db.County"/>
     </list>
 </litepal>

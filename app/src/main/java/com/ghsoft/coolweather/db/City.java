@@ -1,4 +1,4 @@
-package com.ghsoft.coolweather;
+package com.ghsoft.coolweather.db;
 
 import org.litepal.crud.DataSupport;
 

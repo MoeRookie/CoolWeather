@@ -2,8 +2,8 @@ package com.ghsoft.coolweather.util;
 
 import android.text.TextUtils;
 
-import com.ghsoft.coolweather.City;
-import com.ghsoft.coolweather.County;
+import com.ghsoft.coolweather.db.City;
+import com.ghsoft.coolweather.db.County;
 import com.ghsoft.coolweather.db.Province;
 
 import org.json.JSONArray;
